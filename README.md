@@ -26,7 +26,7 @@
 <code>[Social Sentiment Graph](https://github.com/imefarhan/Social-Sentiment-Graphs)</code> :chart_with_upwards_trend:  
 <code>[News Scrapper](https://github.com/imefarhan/News-Scrapper)</code> :scroll:  
 <code>[Some Practice Problems](https://github.com/imefarhan/Practice-Problems)</code> :v:  
-<code>Note: These represent less than 1% of total work, majority of my work lives in private repositories of various startups and MNCs</code>
+<code>Note: These represent less than 1% of my total work, majority of my work lives in private repositories of various startups and MNCs</code>
 
 ### What can I help with:question::cyclone:
 <code>'Backend- design/development/planning, Product Management, Personal Finance & Mathematics!'</code> :grin:
