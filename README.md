@@ -3,7 +3,7 @@
 <h1 align="center">Hi!, I'm Farhan Asad</h1>
 <!--h3 align="center">I'm one of the Founding Engineers at <a href="https://sarasanalytics.com/daton" target="_blank"> <img src="https://github.com/imefarhan/imefarhan/blob/0a2eb429d297c5d0ac469a312dd57a44e328112d/daton_logo.svg" style="background-color:white;padding:20px;" alt="Saras Analytics" width="40" height="40"/> </a> </h3-->
 
-<h3 align="center">I'm one of the founding engineers at <a href="https://sarasanalytics.com/daton">Daton</a></h3>
+<h3 align="center">I'm one of the early engineers at <a href="https://sarasanalytics.com/daton">Daton</a></h3>
 
 <p align="center">
   <img src="https://github.com/imefarhan/imefarhan/blob/217ed70753ac672f80edbeda1064480b9ccf4104/FarhanBanner.gif"/>
