@@ -15,7 +15,7 @@
 
 - 👨‍💻 More about me is available at [My Website](https://imefarhan.github.io/)
 
-- 💬 Talk to me about **Java, Kotlin, System Design, Distributed Systems**
+- 💬 Talk to me about **Java, Kotlin, System Design, Distributed Systems, Personal Finance, Investing**
 
 - 📫 Reach out to me at **imefarhan@gmail.com**
 
